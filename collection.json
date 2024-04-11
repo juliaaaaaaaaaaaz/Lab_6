@@ -1,0 +1,19 @@
+[
+  {
+    "id": 7848845419705852303,
+    "name": "52",
+    "coordinates": {
+      "x": 52.0,
+      "y": 2.0
+    },
+    "creationDate": "Apr 11, 2024, 10:03:51?PM",
+    "minimalPoint": 52,
+    "maximumPoint": 52,
+    "difficulty": "EASY",
+    "discipline": {
+      "name": "52",
+      "practiceHours": 52,
+      "selfStudyHours": 52
+    }
+  }
+]
